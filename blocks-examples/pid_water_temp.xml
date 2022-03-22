@@ -47,7 +47,7 @@
                         <value name="VALUE">
                           <block type="simulate_water_boiler" id="YdulJx2__kYZY~|![OTD">
                             <field name="ID">0</field>
-                            <field name="DISSIPATION">0.02</field>
+                            <field name="DISSIPATION">0.002</field>
                             <value name="POWER">
                               <block type="variables_get" id="p;~ANh;RD6t`P+T^|eL]">
                                 <field name="VAR" id="A4Q6Cr5_.=e1Hig],rLs">power</field>
