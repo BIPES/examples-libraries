@@ -87,9 +87,9 @@ Enable to see the difference when considering real  life limits!
                                   <block type="simulate_dcmotor.sim" id="-}/`#?=OYZsX6|wi;ann">
                                     <field name="ID">0</field>
                                     <field name="RA">0.52</field>
-                                    <field name="LA">0.00036</field>
+                                    <field name="LA">0.000036</field>
                                     <field name="B">0.00001</field>
-                                    <field name="J">0.00012</field>
+                                    <field name="J">0.000012</field>
                                     <field name="KBEMF">0.0137</field>
                                     <field name="STATIC_FRICTION">0.01</field>
                                     <value name="POWER">
